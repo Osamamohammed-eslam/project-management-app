@@ -9,6 +9,7 @@ Check out the live demo [here](https://project-management-app-oi.netlify.app/)!
 - Add projects with a name, description and date.
 - Delete projects.
 - Add tasks to each project.
+- Modal for displaying errors
 
 ## Technologies Used
 - React
