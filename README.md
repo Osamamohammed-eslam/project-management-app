@@ -15,6 +15,7 @@ Check out the live demo [here](https://project-management-app-oi.netlify.app/)!
 - React
 - useState hook for state management.
 - useRef hook for handling inputs.
+- Tailwind CSS for styling
 
 ## Installation
 1. Clone the repository: git clone https://github.com/yourusername/project-management-app.git.
