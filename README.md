@@ -18,7 +18,7 @@ Check out the live demo [here](https://project-management-app-oi.netlify.app/)!
 - Tailwind CSS for styling
 
 ## Installation
-1. Clone the repository: git clone https://github.com/yourusername/project-management-app.git.
+1. Clone the repository: git clone https://github.com/osamaIslam-oi/project-management-app.git.
 2. Navigate into the project directory: cd project-management-app.
 3. Install dependencies: npm install.
 4. Start the development server: npm start.
